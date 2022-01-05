@@ -1,2 +1,17 @@
 Qt+Python混合编程
 https://blog.csdn.net/qq_29176963/article/details/82776575
+
+QT中可以用到的Python API函数
+https://docs.python.org/release/1.5.2p2/ext/parseTuple.html
+
+C++ 调用Python文件方法传递字典参数并接收返回值
+https://www.cnblogs.com/wjshan0808/p/8409674.html
+
+C++中嵌入Python调用
+https://segmentfault.com/a/1190000000531613
+
+qt传递二维数组,列表给python
+https://blog.csdn.net/tiandyoin/article/details/80222461
+
+C++调Python示例
+https://www.cnblogs.com/Hisin/archive/2012/02/27/2370590.html
