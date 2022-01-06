@@ -1,6 +1,6 @@
 #include <QFile>//添加file头文件
 #include <QDir>//添加file头文件
-
+#include <QDateTime> //系统时间
 ///创建目录
 QString selectedFile = QDir::currentPath() + "/Video/";
 // 检查目录是否存在，若不存在则新建
