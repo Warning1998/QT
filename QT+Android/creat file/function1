@@ -5,7 +5,7 @@ https://codeantenna.com/a/YNknUvSRKq
 注意在.pro文件中添加以下内容
 QT       += androidextras
 QT       += core-private
--------------------------------------------------------------------------------------
+---------------------------------main.cpp--------------------------------------------
 #include "mainwindow.h"
 
 #include <QApplication>
