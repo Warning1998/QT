@@ -2,7 +2,7 @@
 运行的结果：模拟机上可以运行并获得了如愿的结果，但是实物机上则运行失败
 附上源网站
 https://codeantenna.com/a/YNknUvSRKq
-![Warning1998's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Warning1998&show_icons=true&count_private=true&theme=gotham)
+
 -------------------------------------------------------------------------------------
 #include "mainwindow.h"
 
