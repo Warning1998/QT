@@ -1,5 +1,7 @@
 #虽然但是，也不知道为啥，但是在模拟器上可以运行的程序，在实机上却没法运行。具体的问题以后再说吧
 
+****
+
 ```
 function test() {
   console.log("notice the blank line before this function?");
