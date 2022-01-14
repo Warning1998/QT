@@ -9,4 +9,3 @@ https://doc.qt.io/qt-5/index.html
 QT的下载中心
 https://download.qt.io/
 
-# QT1
