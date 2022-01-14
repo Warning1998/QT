@@ -2,7 +2,9 @@
 运行的结果：模拟机上可以运行并获得了如愿的结果，但是实物机上则运行失败
 附上源网站
 https://codeantenna.com/a/YNknUvSRKq
-
+注意在.pro文件中添加以下内容
+QT       += androidextras
+QT       += core-private
 -------------------------------------------------------------------------------------
 #include "mainwindow.h"
 
